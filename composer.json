@@ -1,0 +1,21 @@
+{
+    "name": "mokakustudio/php-form-builder",
+    "description": "A simple PHP form builder library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mokakustudio\\PhpFormBuilder\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M. Viza M.",
+            "email": "mokakustudio@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
